@@ -8,6 +8,7 @@
 |HLR02|	Compares with the regular room Temperature|	
 |HLR03|	Rings the buzzer if temperature is High then room temperature|
 |HLR04| Rings the buzzer if any Fire or Smoke is detected in the building|
+|HLR05| Shows the status on the LED screen|
 
 ## **Low Level Requriements**
    
