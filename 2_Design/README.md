@@ -4,6 +4,6 @@
 ## Block Diagram
 ![Screenshot (203)](https://user-images.githubusercontent.com/99093515/155674854-22414bf2-e322-4a35-9971-8543407a3dd3.png)
 
-
-
-![The-flowchart-of-the-proposed-technique_Q320](https://user-images.githubusercontent.com/99093515/154886466-54847efd-d462-46f9-9407-10f512190d2d.jpg)
+## Circuit Connections
+![image](https://user-images.githubusercontent.com/99093515/155686826-cf40e2ec-de17-4c1c-814c-bb0f541044c6.png)
+![Screenshot (205)](https://user-images.githubusercontent.com/99093515/155687234-e007d3e6-2a73-495e-a8c2-e099d96192b3.png)
