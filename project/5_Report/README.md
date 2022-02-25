@@ -33,6 +33,10 @@
 # Flowchart
 ![Screenshot (201)](https://user-images.githubusercontent.com/99093515/155673185-86b5b484-ecd4-4c2a-a20e-8a87da659c1e.png)
 
+# SWOT Analysis
+![Screenshot (209)](https://user-images.githubusercontent.com/99093515/155767139-2f27cbc4-3680-4730-848f-09f7cbe574db.png)
+
+
 # Test Plan and Output
 
 ## High-Level Requriements
