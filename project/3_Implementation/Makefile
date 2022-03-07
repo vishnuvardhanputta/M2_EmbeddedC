@@ -3,11 +3,11 @@ PROJ_NAME = Firealarm
 BUILD_DIR = Build
 
 # All Source code files
-SRC = project_main.c\
-src/activity1.c\
-src/activity2.c\
-src/activity3.c\
-src/activity4.c\
+SRC = proj_main.c\
+src/main.c\
+src/Firealarm1.c\
+src/Firealarm2.c\
+src/Firealarm3.c\
 
 # All header file paths
 INC = -I inc
