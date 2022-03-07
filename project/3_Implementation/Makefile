@@ -31,7 +31,7 @@ ifdef OS	# All configurations for Windwos OS
    CC = avr-gcc.exe
    # Name of the elf to hex file converter used
    AVR_OBJ_CPY = avr-objcopy.exe
-else #All configurations for Linux OS
+else #All configurations for Linux
    ifeq ($(shell uname), Linux)
    	  # Delete command
       RM = rm -rf				
@@ -44,7 +44,7 @@ else #All configurations for Linux OS
    endif
 endif
 
-# Command to make to consider these names as targets and not as file names in folder
+# Command to make to consider these names as targets and not as file names in
 .PHONY:all analysis clean doc
 
 all:$(BUILD_DIR)
