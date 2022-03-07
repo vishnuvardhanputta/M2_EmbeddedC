@@ -64,6 +64,14 @@
 #  Block Diagram
 ![Screenshot (203)](https://user-images.githubusercontent.com/99093515/155674854-22414bf2-e322-4a35-9971-8543407a3dd3.png)
 
+# Components Used
+* Micro controller ATMega 328
+* Temperature sensor(which is used to check the temperature)
+   But instead of the temperature sensor which is not available in the simullIde We are using the Potentiometer.
+   Which Acts as a thermistor, Resists the flow of signal at low temperature and allows the flow at the particular and higher than that temperature.
+* Buzzer(for cautioning the people)
+* Smoke or fire sensor (which is used to detect Smoke or Fire)
+* Led (Used as an indicator when the fire or smoke broke out)ss
 
 # Conclusion
 The fire detection systems proposed in the literature served fire stopping with no care of the responsiveness. Thus, this study considers the existing issues and build an efficient and effective fire detection system based on IoT technology, gas, temperature, and smoke sensors to collect the data accurately and rapidly
