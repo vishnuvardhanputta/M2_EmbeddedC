@@ -36,6 +36,18 @@
 # SWOT Analysis
 ![Screenshot (209)](https://user-images.githubusercontent.com/99093515/155767139-2f27cbc4-3680-4730-848f-09f7cbe574db.png)
 
+# 4W's and 1H
+## what
+* It is a fire alarm system which is used in helping or alerting the people when fire broke out
+## where
+* In the offices, schools, buildings, public places, Theatres etc
+## when
+* useful when the fire broke out
+## why
+* To alert people as fast as possible and save a lot of injuries
+## How
+* By ringing the buzzer and displaying on Lcd screen
+
 
 # Test Plan and Output
 
