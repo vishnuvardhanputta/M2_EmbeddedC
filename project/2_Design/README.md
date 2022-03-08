@@ -1,6 +1,10 @@
 ## FlowChart
 ![Screenshot (201)](https://user-images.githubusercontent.com/99093515/155673185-86b5b484-ecd4-4c2a-a20e-8a87da659c1e.png)
 
+## Structural Block Diagram
+![Screenshot (214)](https://user-images.githubusercontent.com/99093515/157216897-5f8088df-a132-46fe-a4c5-758d4b72e7a1.png)
+
+
 ## Block Diagram
 ![Screenshot (203)](https://user-images.githubusercontent.com/99093515/155674854-22414bf2-e322-4a35-9971-8543407a3dd3.png)
 
